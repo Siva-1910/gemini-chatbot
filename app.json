@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "gemini-chatbot",
+    "slug": "gemini-chatbot",
+    "version": "1.0.0",
+    "extra": {
+      "GEMINI_API_KEY": "AIzaSyBpzUIpspSMZzCgZhPBL7xVZgBID3DWKk4"
+    }
+  }
+}
